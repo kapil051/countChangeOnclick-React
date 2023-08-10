@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  padding: 0px;
+   box-sizing: border-box;
+     background-color: #4ad39c;
+}
+
+  .container{
+         height: 650px;
+         margin: 4px;
+      
+         display: flex;
+           justify-content: center;
+             align-items: center;
+  }
+
+    .inner{
+       
+          width: 100px;
+             display: flex;
+               flex-direction: column;
+            justify-content: center;
+               align-items: center;     
+    }
+
+     .button{
+         height: 50px;
+            width: 234px; 
+               font-size: 30px;
+                  font-weight: bold;
+            background-color: orchid;
+               color: black;
+                 border: 1px solid black;
+     }
+
+     .count{
+         font-size: 90px;
+     }
+
